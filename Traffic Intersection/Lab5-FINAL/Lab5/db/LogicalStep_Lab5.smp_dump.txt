@@ -1,0 +1,21 @@
+
+State Machine - |LogicalStep_Lab5_top|Lab5_Moore_SM:SM1|current_state
+Name current_state.SEVENTEEN current_state.SIXTEEN current_state.FIFTEEN current_state.FOURTEEN current_state.THIRTEEN current_state.TWELVE current_state.ELEVEN current_state.TEN current_state.NINE current_state.EIGHT current_state.SEVEN current_state.SIX current_state.FIVE current_state.FOUR current_state.THREE current_state.TWO current_state.ONE current_state.ZERO 
+current_state.ZERO 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+current_state.ONE 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+current_state.TWO 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+current_state.THREE 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+current_state.FOUR 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+current_state.FIVE 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+current_state.SIX 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+current_state.SEVEN 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+current_state.EIGHT 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+current_state.NINE 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+current_state.TEN 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+current_state.ELEVEN 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+current_state.TWELVE 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.THIRTEEN 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.FOURTEEN 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.FIFTEEN 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.SIXTEEN 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.SEVENTEEN 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
